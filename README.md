@@ -1,43 +1,20 @@
-<html>
-    <body>
- 
-  <hr>
+<hr>
   <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I am Ram Biyani </h1>
-  <h3 align="center">I am a Software Developer at TietoEvry </h3>
+  <h3 align="center">Currently I am working as a Software Developer </h3>
 <p align="center">
-  <a href="https://www.hackerearth.com/@dhruvpatel1750" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png" alt="hack_ovindu" height="30" width="40" style=”margin: 1px 1px 1px 1px;/></a>
-  <a href="https://www.linkedin.com/in/rambiyani/" target="blank"><img align="center" src="https://icon2.cleanpng.com/20180320/rbe/kisspng-linkedin-computer-icons-social-media-professional-png-linkedin-transparent-5ab1766dcafc38.5216273615215796298314.jpg" alt="LinkedIn" height="30" width="40" /></a>  
-   <a href="https://leetcode.com/pateldhrna17ce/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="fb_ovindu" height="30" width="40" /></a>
-   <a href="https://www.hackerrank.com/pateldhruv1710" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-   <a href = "mailto: dhruvpatel1750@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/rambiyani/" target="blank"><img align="center" src="https://icon2.cleanpng.com/20180320/rbe/kisspng-linkedin-computer-icons-social-media-professional-png-linkedin-transparent-5ab1766dcafc38.5216273615215796298314.jpg" alt="LinkedIn" height="30" width="30" /></a>  
+   <a href="https://www.hackerrank.com/ramsbiyani" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
+   <a href = "mailto: biyaniram36@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="30" /></a>
 
-</p>
-  </p>
-  <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-  
-  
+<h2> Technical Skills </h2>
 
-  
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<ul>
+    <li><b>Porgramming Languages :</b> C++, C#, Python <img align = "middle" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="30px"> <img align = "middle" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="30px"> <img align = "middle" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" width="30px"> </li>
+    <li><b>Frontend techologies: </b> JavaScript, HTML, CSS</li>
+    <li><b>Database : </b> SQL</li>
+    <li><b>Cloud : </b> Microsoft Azure</li>
+</ul>  
 
-- :space_invader:
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](http://img.shields.io/badge/-Java-5B4638?style=for-the-badge&logo=java&logoColor=white)
-  ![C](http://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-  ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
-  ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-  ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=ffffff)
-- 💻 &nbsp;
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
+
+<!-- <img align = "middle" src ="https://p.kindpng.com/picc/s/171-1718046_javascript-programming-language-logo-hd-png-download.png" width="40px"> <img align = "middle" src ="https://img.icons8.com/color/344/html-5--v2.png" width="40px"> <img align = "middle" src ="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="40px"> -->
