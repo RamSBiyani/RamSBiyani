@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... React, Microsoft Azure
 - 👯 I’m looking to collaborate on ... Full Stack Devlopment Projects
 
+<a href="https://www.linkedin.com/in/pateldhruv-/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a> 
+
 <!-- ### Languages and Tools -->
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
