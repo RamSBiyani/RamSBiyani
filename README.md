@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - :space_invader:
+  ![C#](https://img.shields.io/badge/-C%23-yellowgreen)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![Java](http://img.shields.io/badge/-Java-5B4638?style=for-the-badge&logo=java&logoColor=white)
   ![C](http://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
