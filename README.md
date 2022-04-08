@@ -3,13 +3,8 @@
  
   <hr>
   <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I am Ram Biyani </h1>
-  <h3 align="center">I am a Software Dveleoper at TietoEvry </h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Age-23-blue" />
-    <img src="https://img.shields.io/badge/Lives-India-success" />
-    <img src="https://img.shields.io/badge/Languages-English%20%20Hindi%20%20Marathi-brightgreen />
-  </p>
-  <p align="center">
+  <h3 align="center">I am a Software Developer at TietoEvry </h3>
+<p align="center">
   <a href="https://www.hackerearth.com/@dhruvpatel1750" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png" alt="hack_ovindu" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/rambiyani/" target="blank"><img align="center" src="https://icon2.cleanpng.com/20180320/rbe/kisspng-linkedin-computer-icons-social-media-professional-png-linkedin-transparent-5ab1766dcafc38.5216273615215796298314.jpg" alt="LinkedIn" height="30" width="40" /></a>  
    <a href="https://leetcode.com/pateldhrna17ce/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="fb_ovindu" height="30" width="40" /></a>
