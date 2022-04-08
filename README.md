@@ -5,13 +5,13 @@
   <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I am Ram Biyani </h1>
   <h3 align="center">I am a Software Dveleoper at TietoEvry </h3>
   <p align="center">
-    <img src="https://img.shields.io/badge/Age-22-blue" />
+    <img src="https://img.shields.io/badge/Age-23-blue" />
       <img src="https://img.shields.io/badge/Lives-India-success" />
-      <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Gujarati-brightgreen" />
+      <img src="https://img.shields.io/badge/Languages-English%20%20Hindi%20%20Marathi-brightgreen />
     </p>
   <p align="center">
   <a href="https://www.hackerearth.com/@dhruvpatel1750" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png" alt="hack_ovindu" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/rambiyani/" target="blank"><img align="center" src=" https://img.icons8.com/color/344/linkedin.png" alt="lin_ovindu" height="30" width="40" /></a>  
+  <a href="https://www.linkedin.com/in/rambiyani/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="LinkedIn" height="30" width="40" /></a>  
    <a href="https://leetcode.com/pateldhrna17ce/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="fb_ovindu" height="30" width="40" /></a>
    <a href="https://www.hackerrank.com/pateldhruv1710" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
    <a href = "mailto: dhruvpatel1750@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
