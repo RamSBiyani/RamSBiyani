@@ -1,20 +1,32 @@
-### Hi I am Ram Biyani 👋
+<html>
+    <body>
+ 
+  <hr>
+  <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I am Dhruv Patel </h1>
+  <h3 align="center">I'm a Undergad Student and I'm into Coding! </h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Age-22-blue" />
+      <img src="https://img.shields.io/badge/Lives-India-success" />
+      <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Gujarati-brightgreen" />
+    </p>
+  <p align="center">
+  <a href="https://www.hackerearth.com/@dhruvpatel1750" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png" alt="hack_ovindu" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/pateldhruv-/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+   <a href="https://leetcode.com/pateldhrna17ce/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="fb_ovindu" height="30" width="40" /></a>
+   <a href="https://www.hackerrank.com/pateldhruv1710" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
+   <a href = "mailto: dhruvpatel1750@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 
-### I am currently working as Software Developer at TietoEvry
+</p>
+  </p>
+  <br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+  
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... React, Microsoft Azure
-- 👯 I’m looking to collaborate on ... Full Stack Devlopment Projects
-
-<a href="https://www.linkedin.com/in/pateldhruv-/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a> 
-
-<!-- ### Languages and Tools -->
+  
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - :space_invader:
-  ![C#](https://img.shields.io/badge/-C%23-yellowgreen)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![Java](http://img.shields.io/badge/-Java-5B4638?style=for-the-badge&logo=java&logoColor=white)
   ![C](http://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -37,8 +49,16 @@ Here are some ideas to get you started:
 
 
 
-### Social media profiles
-<p align="left">
-<a href="https://www.linkedin.com/in/rambiyani/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
+<p align="center">
+<a href="https://github.com/Armour12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Armour12&layout=compact&langs_count=8&theme=radical&hide=jupyter notebook"/>
+</a>
 </p>
-
+  <hr>
+    <p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/Armour12/count.svg" />
+  </br>
+</p>
+    </body>
+</html>
