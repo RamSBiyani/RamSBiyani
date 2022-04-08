@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Age-23-blue" />
     <img src="https://img.shields.io/badge/Lives-India-success" />
     <img src="https://img.shields.io/badge/Languages-English%20%20Hindi%20%20Marathi-brightgreen />
-    </p>
+   </p>
   <p align="center">
   <a href="https://www.hackerearth.com/@dhruvpatel1750" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png" alt="hack_ovindu" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/rambiyani/" target="blank"><img align="center" src="https://icon2.cleanpng.com/20180320/rbe/kisspng-linkedin-computer-icons-social-media-professional-png-linkedin-transparent-5ab1766dcafc38.5216273615215796298314.jpg" alt="LinkedIn" height="30" width="40" /></a>  
@@ -46,19 +46,3 @@
 - 💻 &nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
-
-
-
-<p align="center">
-<a href="https://github.com/Armour12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Armour12&layout=compact&langs_count=8&theme=radical&hide=jupyter notebook"/>
-</a>
-</p>
-  <hr>
-    <p align="center"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/Armour12/count.svg" />
-  </br>
-</p>
-    </body>
-</html>
