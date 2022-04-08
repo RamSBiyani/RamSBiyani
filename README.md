@@ -6,8 +6,8 @@
   <h3 align="center">I am a Software Dveleoper at TietoEvry </h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Age-23-blue" />
-      <img src="https://img.shields.io/badge/Lives-India-success" />
-      <img src="https://img.shields.io/badge/Languages-English%20%20Hindi%20%20Marathi-brightgreen />
+    <img src="https://img.shields.io/badge/Lives-India-success" />
+    <img src="https://img.shields.io/badge/Languages-English%20%20Hindi%20%20Marathi-brightgreen />
     </p>
   <p align="center">
   <a href="https://www.hackerearth.com/@dhruvpatel1750" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png" alt="hack_ovindu" height="30" width="40" /></a>
