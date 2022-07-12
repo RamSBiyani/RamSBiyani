@@ -19,13 +19,14 @@
 
 # Technical Skills
 
-- <b>Programming Languages    :   </b> C++, C#, Python                      
+- <b>Programming Languages    :   </b> Java, C#  
+- <b>Backend technologies     :   </b> Spring, Servlet, Hibernate, Spring Boot
 - <b>Frontend technologies	  :   </b> HTML, CSS, JavaScript, Bootstrap     
-- <b>Database                 :   </b> SQL                                  
+- <b>Database                 :   </b> MySQL                                  
 - <b>Others                   :   </b> Data structures and algorithms, OOPS 
 - <b>Cloud Platforms          :   </b> Microsoft Azure                      
 - <b>Analytical Tool	        :   </b> Tableau                              
-- <b>Familiar with	          :   </b> Core Java, Django (Basic)            
+- <b>Familiar with	          :   </b> Python, Django (Basic)            
 
 
 <!--  -->
